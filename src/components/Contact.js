@@ -24,7 +24,6 @@ export const Contact = () => {
                     <p>Email: <a href="mailto:aman_cseai@outlook.com">aman_cseai@outlook.com</a></p>
                     <p>Phone: <a href="tel:+919267910066">+91 9267910066</a></p>
                     <p>LinkedIn: <a href="https://www.linkedin.com/in/amankr1807/">linkedin.com/in/amankr1807/</a></p>
-                    <p>LinkedIn: <a href="https://drive.google.com/file/d/1HQCWhPV_PSRq5imBvXCPDlYfbzVv_SO_/view?usp=sharing">linkedin.com/in/amankr1807/</a></p>
                     <p>WORKdIn: <a href="https://drive.google.com/file/d/1HQCWhPV_PSRq5imBvXCPDlYfbzVv_SO_/view?usp=sharing">https://drive.google.com/file/d/1HQCWhPV_PSRq5imBvXCPDlYfbzVv_SO_/view?usp=sharing</a></p>
                   </div>
                 </div>}
